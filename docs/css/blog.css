@@ -415,7 +415,7 @@ section { position: relative; z-index: 1; }
 
 .pill span { color: var(--accent); font-size: 0.9rem; }
 
-.skills-block { }
+
 
 .skills-title {
   font-family: var(--mono);
